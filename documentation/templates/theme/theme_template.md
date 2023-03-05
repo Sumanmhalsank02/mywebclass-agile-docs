@@ -5,7 +5,7 @@ Theme: Empowering students with hands-on experience on a Techified Platform
 
 # List initiatives related to this theme
 1. [Develope a website with integrated learning experience](documentation/templates/theme/initiatives/initiative_template.md)
-2. [ntegrate Google Analytics for measuring website performance and user behavior](documentation/templates/theme/initiatives/initiative_template.md)
+2. [Integrate Google Analytics for measuring website performance and user behavior](documentation/templates/theme/initiatives/initiative_template.md)
 3. [Implement a DevOps framework to support the development process and ensure a smooth deployment process](documentation/templates/theme/initiatives/initiative_template.md)
 
  
