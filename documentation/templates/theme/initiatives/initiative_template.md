@@ -139,7 +139,7 @@ Devops Engineer
 Development Team
 Operations Team
 
-## Learn about GDPR Scanner
+## 4. Learn about GDPR Scanner
 
 Goal:
 The goal of the GDPR Scanner initiative is to provide businesses with a tool that automates the process of identifying potential GDPR compliance issues on their websites, thus making it easier for them to comply with GDPR regulations.
