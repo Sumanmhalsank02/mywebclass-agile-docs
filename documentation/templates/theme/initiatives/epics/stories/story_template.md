@@ -47,3 +47,5 @@ The learning environment should provide opportunities for students to practice a
 2. [Google Analytics Implementation](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
 3. [Bugs and Issues](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
 4. [Hands-on real-world environment](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+
+sm637
