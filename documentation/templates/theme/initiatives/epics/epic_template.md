@@ -87,3 +87,5 @@ High
 1. [Track Progress and Recieve Personlized Recommendations](documentation/templates/theme/initiatives/epics/stories/story_template.md)
 2. [Optimize Website](documentation/templates/theme/initiatives/epics/stories/story_template.md)
 3. [Quick search of useful Information](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+
+sm637
