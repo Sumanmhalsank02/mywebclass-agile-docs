@@ -139,6 +139,27 @@ Devops Engineer
 Development Team
 Operations Team
 
+## 4. Learn about GDPR Scanner
+
+Goal:
+The goal of the GDPR Scanner initiative is to provide businesses with a tool that automates the process of identifying potential GDPR compliance issues on their websites, thus making it easier for them to comply with GDPR regulations.
+
+Scope:
+The scope of the GDPR Scanner initiative includes the development of the tool and the integration of the tool with websites to identify compliance issues.
+
+Outcome:
+The outcome of the GDPR Scanner initiative is to help businesses comply with GDPR regulations by providing a tool that identifies potential compliance issues on their websites.
+
+Deliverable:
+The Website will allow us to legally use Google Analytics to measure user behaviour on the site, and pass GDPR
+
+Assumption: 
+None
+
+Risk:
+The rules should be followed and it might not pass GDPR
+
+
 # List epics related to this theme
 1. [Develop an integrated learning platform](documentation/templates/theme/initiatives/epics/epic_template.md)
 2. [Improve website performance using Google Analytics](documentation/templates/theme/initiatives/epics/epic_template.md)
