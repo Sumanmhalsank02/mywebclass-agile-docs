@@ -11,7 +11,7 @@ All pages on the website have meta descriptions that accurately describe the pag
 The header tags (H1, H2, H3) on the pages are used correctly and effectively to organize the content and convey the page's hierarchy
 The SEO requirements are implemented using best practices and in compliance with search engine guidelines.
 
-Dependencies: None
+Dependencies: SEO tools and knowledge about keyword research
 
 Effort Estimate: 4 hours
 
