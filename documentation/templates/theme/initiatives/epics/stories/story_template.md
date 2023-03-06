@@ -42,6 +42,14 @@ The learning materials should cover a range of relevant technology topics and be
 The learning materials should be easily accessible and available in various formats, such as text, video, and interactive exercises.
 The learning environment should provide opportunities for students to practice and apply their skills in a simulated work environment
 
+"As a website user, I want to use an interactive and easy to use website"
+Acceptance Criteria:
+Navigation: The website's navigation should be clear and easy to use, with clear labels and intuitive menus that make it easy for users to find what they're looking for.
+Responsiveness: The website should be responsive and optimized for different devices, such as desktops, tablets, and mobile phones. The website should also load quickly and be accessible to users with different internet speeds.
+Design: The website's design should be visually appealing and modern, with a consistent color scheme, font, and layout. The website should also use images, videos, and other visual elements to enhance the user experience.
+Interactivity: The website should have interactive elements such as drop-down menus, search bars, and buttons that respond to user input. The website should also be designed to encourage user engagement and interaction, such as through comments 
+
+
 
 1. [Website optimized for SEO](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
 2. [Google Analytics Implementation](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
