@@ -51,6 +51,9 @@ Story2 & 3 - Automated Testing
 Measure Effectiveness: 
 KPI
 Google Analytics
+Keyword ranking
+Organic traffic
+
 
 ## Tasks
 1. Implement basic on-page SEO requirements such as title tags, meta descriptions, and header tags
