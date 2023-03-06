@@ -18,7 +18,7 @@ Risks:
 User data privacy breaches could lead to reputational damage.
 
 Estimated Effort: 
-12-18 months
+2 months for a basic start
 
 Business Value: 
 Enhanced brand reputation and competitive advantage
@@ -46,7 +46,7 @@ Risks:
 Optimization efforts could negatively impact website performance if not implemented correctly.
 
 Estimated Effort: 
-3-6 months
+4 weeks 
 
 Business Value:
 Improved user experience and satisfaction.
@@ -75,7 +75,7 @@ Risks:
 Technical issues could cause disruptions or downtime.
 
 Estimated Effort: 
-1-2 months
+3-4 weeks
 
 Business Value:
 Increased website visibility and search engine ranking.
