@@ -143,3 +143,6 @@ Operations Team
 1. [Develop an integrated learning platform](documentation/templates/theme/initiatives/epics/epic_template.md)
 2. [Improve website performance using Google Analytics](documentation/templates/theme/initiatives/epics/epic_template.md)
 3. [Implement On page basic SEO requirements](documentation/templates/theme/initiatives/epics/epic_template.md)
+
+
+sm637
